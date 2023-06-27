@@ -18,7 +18,8 @@ Boilerplate template for vue3 using typescript and vite
 
 + File main.ts will look a like
 
-```
+```ts
+// main.ts
 new ViuApp()
 .setModules('development', new HttpModule(), new AuthModule())
 .setModules('production', new HttpWebWorkerModule(), new AuthModule())
