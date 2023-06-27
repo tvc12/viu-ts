@@ -1,5 +1,5 @@
 # viu-ts
-Boilerplate template for vue3 using typescript and vite 
+Boilerplate template for vue3 using typescript, pinia, vue-router, vite, vitest and cypress 
 
 ### Template
 
@@ -11,7 +11,9 @@ Boilerplate template for vue3 using typescript and vite
 + [ ] Router
 + [ ] Sass
 + [ ] Logger
-+ [ ] Vite
++ [ ] vite
++ [ ] vitest
++ [ ] Cypress
 
 
 ### How to start app
