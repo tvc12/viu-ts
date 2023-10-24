@@ -1,19 +1,20 @@
 # viu-ts
+
 Boilerplate template for vue3 using typescript, pinia, vue-router, vite, vitest and cypress 
 
 ### Template
 
-+ [ ] Vue3
-+ [ ] Typescript
-+ [ ] Web Worker
-+ [ ] Dependency Injection
-+ [ ] Pinia
-+ [ ] Router
++ [ ] [Vue3](https://vuejs.org/)
++ [ ] [Typescript](https://www.typescriptlang.org/)
++ [ ] [Web Worker](https://www.npmjs.com/package/web-worker)
++ [ ] [Dependency Injection](https://www.npmjs.com/package/typescript-ioc)
++ [ ] [Pinia](https://pinia.vuejs.org/)
++ [ ] [Router](https://router.vuejs.org/)
++ [ ] [Vite](https://vitejs.dev/)
++ [ ] [Vitest](https://vitest.dev/)
++ [ ] [Cypress](https://www.cypress.io/)
 + [ ] Sass
 + [ ] Logger
-+ [ ] vite
-+ [ ] vitest
-+ [ ] Cypress
 
 
 ### How to start app
@@ -35,3 +36,7 @@ new ViuApp()
 .mount('#app')
 .start(import.meta.env.MODE)
 ```
+
+### License
+
+[MIT@tvc12](./LICENSE)
